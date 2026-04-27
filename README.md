@@ -4,7 +4,7 @@ A homelab project for executing common Active Directory attacks and writing dete
 
 ## 🚧 Status
 
-Active — last updated April 26, 2026
+Active last updated April 26, 2026
 
 - [x] Project plan / lab architecture
 - [ ] Windows Server 2022 domain controller deployed
