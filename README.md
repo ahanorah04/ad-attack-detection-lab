@@ -7,9 +7,9 @@ A homelab project for executing common Active Directory attacks and writing dete
 Active last updated April 26, 2026
 
 - [x] Project plan / lab architecture
-- [ ] Windows Server 2022 domain controller deployed
-- [ ] Two Windows 10 endpoints domain-joined
-- [ ] BadBlood populated with realistic users and groups
+- [x] Windows Server 2022 domain controller deployed
+- [x] Two Windows 10 endpoints domain-joined
+- [x] BadBlood populated with realistic users and groups
 - [ ] Sysmon + Splunk forwarder configured
 - [ ] Kerberoasting attack + detection (T1558.003)
 - [ ] AS-REP Roasting attack + detection (T1558.004)
